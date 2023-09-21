@@ -21,9 +21,3 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package
 ```bash
 pip install package_name
 ```
-
-## Author
-Isabella M. Ramos
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
