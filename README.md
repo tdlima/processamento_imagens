@@ -1,23 +1,3 @@
-# image-processing
+# Descomplicando a Criação de Pacotes de Processamento de Imagens em Python
 
-Description. 
-The package package_name is used to:
-	Processing:
-		- Histogram matching
-		- Structural similarity
-		- Resize image
-
-	Utils:
-		- Read image
-		- Save image
-		- Plot image
-		- Plot result
-		- Plot histogram
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
-
-```bash
-pip install package_name
-```
+O projeto consiste em colocar em prática os aprendizados obtidos através do curso "Descomplicando a criação de pacotes de processamento de imagens em Python" ministrado por Karina Kato através da plataforma Digital Innovation One - DIO.
